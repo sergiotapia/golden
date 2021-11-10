@@ -10,6 +10,6 @@
     "tailwindcss": "^2.2.7"
   },
   "dependencies": {
-    "alpinejs": "^3.2.3"
+    "alpinejs": "^3.5.0"
   }
 }
